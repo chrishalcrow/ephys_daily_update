@@ -117,8 +117,8 @@ for chunk_id, chunk in enumerate(chunk_filepaths):
         for spine in unit_ax.spines.values():
             spine.set_visible(False)
 
-
-amp_fig.savefig("hello.png")
+amp_fig.tight_layout()
+amp_fig.savefig("plots/spike_rasters.png")
 
 unit_fig.tight_layout()
-unit_fig.savefig("units.png")
+unit_fig.savefig("plots/unit_quality.png")
