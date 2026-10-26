@@ -1,0 +1,8 @@
+{
+ "experiment_path": "/Users/christopherhalcrow/Work/Edinburgh/Harry_Project/fast_curate_demo/analyzers/",
+ "probe_path": "/Users/christopherhalcrow/Work/Edinburgh/Harry_Project/fast_curate_demo/analyzers/aeon_Raw/M01_ProbeB_4Shanks_2000_to_2700um_LFP.json",
+ "chunks": [
+  "aeon_Raw/NeuropixelsV2_ProbeB_2.arrow",
+  "aeon_Raw/NeuropixelsV2_ProbeB_3.arrow"
+ ]
+}
